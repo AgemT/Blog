@@ -1,0 +1,19 @@
+#Nome
+{
+    background-color: rgb(255, 161, 161);
+    text-align: center;
+}
+#subtitulo
+{
+    text-align: center;
+}
+#Pfp
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.Post
+{
+    background-color: blanchedalmond;
+}
